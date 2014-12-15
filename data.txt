@@ -1,0 +1,7 @@
+COP2210
+John Doe 50 60 70
+Marco Boyle 50 60 73
+Eric Munzon 45 100 90
+Marry Able 95 100 100
+Jack Smith 100 100 100
+Elizabeth Gomez 100 100 100
